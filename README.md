@@ -1,2 +1,4 @@
 # Machine-Learning-Projects
-This repository contains machine learning projects 
+This repository contains machine learning projects
+
+Author - Aalekh Goyal
