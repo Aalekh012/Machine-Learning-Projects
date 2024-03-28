@@ -1,3 +1,5 @@
 
 This directory includes a CSV file detailing factors contributing to diabetes in individuals, along with a code file for predictive analysis.
 Initially, I imported the required libraries and proceeded to analyze the dataset for null values. Following that, I tallied the occurrences of the Outcome variable and computed the mean for each feature.
+Then I standardized the data, as the values of different features were in different scales, so it was neccessary to convert them in a similar scale.
+The trained and tested the data, and applied the Support Vector Machine for prediction and calculated the accuracy score.
