@@ -1,0 +1,4 @@
+First I imported the necessary libraries.
+Listed the stopwords in english language.
+Loaded and cleaned the dataset.
+By using Porter Stemmer, I Stemmed the content. Stemming became necessary in this project as it helps in reducing the variability because it reduces the complecity of text data by converting the words into its root word, also stemming helps in improving the matching, reducing the data dimensionality.
