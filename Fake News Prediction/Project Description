@@ -2,3 +2,9 @@ First I imported the necessary libraries.
 Listed the stopwords in english language.
 Loaded and cleaned the dataset.
 By using Porter Stemmer, I Stemmed the content. Stemming became necessary in this project as it helps in reducing the variability because it reduces the complecity of text data by converting the words into its root word, also stemming helps in improving the matching, reducing the data dimensionality.
+Then I separated the data and label.
+For converting the text into numerical values, I used Tfidf vectorizer.
+Afterwards, splitted the data into training and testing.
+Then applied the Logistic Regreesion Model for prediction.
+The accuracy on training and testing comes out to be 0.98 and 0.97 respectively.
+
