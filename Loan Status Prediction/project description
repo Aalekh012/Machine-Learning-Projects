@@ -1,0 +1,4 @@
+This folder contains the csv file and the python script for the loan status prediction.
+Firstly, I imported the necessary Libraries, loaded the libraries and cleaned the data.
+After that, I label encoded the data to numerical data as machine can not understand categorical data.
+Also, I visualized the data as it gives a good picture of dependency of target variable on differnet independent variables.
