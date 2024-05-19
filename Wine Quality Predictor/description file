@@ -1,1 +1,9 @@
 This project predicts the quality of wine.
+For making a wine quality predictor, first I imported the libraires and dataset.
+Then next step was to clean the dataset.
+Also I visualized the data by plotting bar plot between dependent and independent variables.
+After that, Preprocessing of data was done, for preprocessing I performed label binarization in which wine quality whose quality value comes out to be greater than 7 is regarded as good wine. 
+Then Splitting of data into training and testing datasets.
+After splitting, model was trained using the random forest classifier.
+Evaluated the model by finding its accuracy on training dataset.
+Finally, made a predictive system to predict the quality of wine as good or bad.
