@@ -1,3 +1,4 @@
 This python scripts predicts the calories burnt of a person.
 For which I first imported the libraries and loaded both the data sets i.e. calories and excercise.
 After that I combined the datasets with each other using pd.concat function.
+Visualized the data by using seaborn library for developing a better understanding of the data.
