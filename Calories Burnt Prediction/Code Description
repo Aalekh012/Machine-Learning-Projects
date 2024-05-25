@@ -1,4 +1,10 @@
 This python scripts predicts the calories burnt of a person.
 For which I first imported the libraries and loaded both the data sets i.e. calories and excercise.
 After that I combined the datasets with each other using pd.concat function.
+Converted the categorical data into numerical data.
 Visualized the data by using seaborn library for developing a better understanding of the data.
+Separated the features and target variable from the dataset.
+Splitted the data into training and testing datasets.
+In this project I used XGBRegressor which is a regression model component of the XGBoost library, which is used for regression tasks rather than classification.
+Fitted the data into XGRegressor.
+After all of that calculated the mean absolute error.
