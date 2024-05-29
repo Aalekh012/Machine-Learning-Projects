@@ -1,1 +1,7 @@
 Firstly, I imported the libraries and loaded the data and checked whether there is any null value present in the data.
+Then Selected the two columns as the features.
+Implemented a for loop for determining the number of clusters using the WCSS method.
+Then I plotted the elbow graph for finding which cluster which has minimum value.
+Then, after analyzing the elbow graph, I trained the K-Means clustering model and plotted all the clusters with their centroids.
+
+
