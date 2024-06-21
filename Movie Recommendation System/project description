@@ -1,1 +1,4 @@
 This python script focuses on building a movie recommendation system, a movie recommendation system can recommend a movie based on three critertia which are a) Content Based recommendations, b) Popularity Based recommendations, and c) Collaborative Based recommendations.
+I loaded the data, filled its null strings, selected relevant features for recommendation.
+Used Tfidf vectorizer for converting text data into feature vectors. Then used cosine similarity for measuring similarity.
+Imported difflib for comparing text and sequences.
